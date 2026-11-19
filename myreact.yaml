@@ -1,4 +1,4 @@
-git_repo: https://github.com/parapidcom/gorunn-example-react.git
+git_repo: https://github.com/magip-tech/gorunn-example-react.git
 type: node
 version: "20"
 endpoint: myreact.local.gorunn.io

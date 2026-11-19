@@ -1,4 +1,4 @@
-git_repo: https://github.com/parapidcom/gorunn-example-laravel.git
+git_repo: https://github.com/magip-tech/gorunn-example-laravel.git
 type: php
 version: "8.3"
 endpoint: mylaravel.local.gorunn.io
