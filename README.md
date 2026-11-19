@@ -18,7 +18,7 @@ This repository holds example project manifests for Gorunn, detailing the suppor
 Below is an example of a project file for a React project:
 
 ```yaml
-git_repo: git@github.com:parapidcom/gorunn-example-react
+git_repo: git@github.com:magip-tech/gorunn-example-react
 type: node
 version: "20"
 endpoint: myreact.local.gorunn.io
